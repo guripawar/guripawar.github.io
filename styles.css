@@ -36,6 +36,15 @@ margin: 0;
   display: inline;
   padding-left: 20px;
   }
+  #header-drop {
+  display: inline;
+  float: center;
+  margin: 0;
+  }
+  #header-drop li {
+    display: inline;
+    padding-left: 20px;
+    }
   #header {
     background-color: #f47442;
     height: 150px;
@@ -94,6 +103,10 @@ a:hover {
   height: 200px;
   vertical-align: middle;
 }
+.post-author video {
+  width: 260px;
+  height: 160px;
+}
 .post-author span (
   margin-left: 16px;
   )
@@ -119,6 +132,13 @@ a:hover {
 .about-author img {
   border-radius: 50%;
 }
+.gurbani img {
+  border-style: double;
+}
+.post-author video {
+  border-style: double;
+}
+
 .post-container:nth-child(even) {
   background-color: #f2f2f2;
 }
