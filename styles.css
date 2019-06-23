@@ -46,9 +46,12 @@ margin: 0;
     padding-left: 20px;
     }
   #header {
-    background-color: #f47442;
+    background-color: #084a51;
     height: 150px;
     line-height: 150px;
+  }
+  #content {
+    background-color: #dff1f2;
   }
   .container {
     max-width: 1000px;
