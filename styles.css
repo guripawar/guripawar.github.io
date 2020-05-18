@@ -139,7 +139,7 @@ a:hover {
   border-style: double;
 }
 .coronavirus img {max-width:30px;
-margin:auto;
+margin:hidden;
 padding: 5px 0;
   border-style: hidden;
 }
